@@ -9,11 +9,13 @@ Automatically hides the image if the content is a video or non-image media.
 
 📁 Files Overview
 File	Description
-manifest.json	Extension configuration (v3 format).
-popup.html	HTML interface displayed when the extension icon is clicked.
-index.js	JavaScript logic for fetching and displaying APOD content.
-logo.png	Icon for the extension.
+manifest.json:Extension configuration (v3 format).
 
+popup.html:HTML interface displayed when the extension icon is clicked.
+
+index.js:JavaScript logic for fetching and displaying APOD content.
+
+logo.png:Icon for the extension.
 
 🧪 How to Test Locally
 
